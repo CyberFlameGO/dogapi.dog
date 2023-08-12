@@ -21,7 +21,7 @@ gem 'rack-cors', '~> 1.1', require: 'rack/cors'
 gem 'rails', '~> 7.0'
 gem 'ransack', '~> 3.2'
 gem 'redis', '~> 4.8'
-gem 'rswag', '~> 2.8'
+gem 'rswag', '~> 2.10'
 gem 'rubocop-rails', '~> 2.17', require: false
 gem 'rubocop-rspec', '~> 2.16', require: false
 gem 'sassc-rails', '~> 2.1'
