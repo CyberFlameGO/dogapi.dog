@@ -25,7 +25,7 @@ gem 'rswag', '~> 2.8'
 gem 'rubocop-rails', '~> 2.17', require: false
 gem 'rubocop-rspec', '~> 2.16', require: false
 gem 'sassc-rails', '~> 2.1'
-gem 'sidekiq', '~> 7.0'
+gem 'sidekiq', '~> 7.1'
 gem 'sprockets-rails', '~> 3.4'
 gem 'trestle', '~> 0.9'
 gem 'trestle-active_storage', github: 'kinduff/trestle-active_storage'
